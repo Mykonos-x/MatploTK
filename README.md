@@ -2,7 +2,7 @@
 Matplotlib visual mapping tool based on tkinter.
 
 ## Display
-![](http://anatomyx.pro/static/img/chartgenerator.jpg)
+![](https://github.com/AnatomyX/MatploTK/blob/main/chartgenerator.jpg)
 
 In order to make drawing with matplotlib more convenient, I made this
 
